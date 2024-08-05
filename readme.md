@@ -14,7 +14,7 @@
 <p>Play and Fun Just for this </p>
 
 
-<h3>See Some images</h3>
+<h3>image(s)</h3>
 <a>
 <img  src="chrome_ipQKxsg06s.png"  >
 </a>
