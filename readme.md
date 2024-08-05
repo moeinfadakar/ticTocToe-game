@@ -16,5 +16,5 @@
 
 <h3>See Some images</h3>
 <a>
-<img  src="chrome_ipQKxsg06s.png" width="50" >
+<img  src="chrome_ipQKxsg06s.png"  >
 </a>
